@@ -4,4 +4,4 @@ country: Ethiopia
 gh: "brhane@aims.edu.gh"
 ---
 
-Lecturer
+Student
