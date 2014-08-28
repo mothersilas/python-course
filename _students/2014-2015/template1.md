@@ -1,7 +1,7 @@
 ---
-name: A Name
-country: A Home
-gh: "A GitHib Handle (no @)"
+name:Kewani Welay
+country: Ethiopia
+gh: "brhane@aims.edu.gh"
 ---
 
-Short professional blurb.
+Lecturer
